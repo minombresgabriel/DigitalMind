@@ -41,11 +41,6 @@ It’s designed to impress visitors, highlight value propositions, and drive the
 1. **Clone the repository**
 git clone https://github.com/minombresgabriel/DigitalMind.git
 
-
-cd digital-mind
-npm install
-npm run dev
-
    
 💬 Contact
 Created with ❤️ by Gabriel Ramirez
